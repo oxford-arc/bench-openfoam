@@ -27,7 +27,7 @@ sh runbench.sh
 
 ## Results
 
-Results from a current ARC node:
+Result output from a current ARC node:
 
 ```
 Cores   Wall time (s):
