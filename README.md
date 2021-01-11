@@ -30,8 +30,8 @@ sh runbench.sh
 Result output from a current ARC node:
 
 ```
-Cores   Container (v1912)   EB Native (v2006):
-----------------------------------------------
+Cores   Container (v1912)   EB Native (v2006)
+---------------------------------------------
 1        4390.02            4225.48
 2        2359.38            2315.26
 4        1101.13            1049.49
