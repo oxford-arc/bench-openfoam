@@ -44,6 +44,8 @@ Cores   Container (v1912)   EB Native (v2006):
 28        226.14             225.78  
 32        213.91             213.31        
 48        192.30             206.79
+
+Values in seconds
 ```
 
 
